@@ -11,9 +11,6 @@ Efficiently implemented protocol which is bandwith efficient,light weight ,uses 
 Implemented Lane detection feature and calculate parameters like radius of curvature,off center distance and curve direction and communicate it to the driver.
 
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ### 📫 Connect with Me
 - LinkedIn (https://www.linkedin.com/in/pratik-more-37b808148).
 
