@@ -15,7 +15,7 @@ Implemented Lane detection feature and calculate parameters like radius of curva
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-- LinkedIn [morepratik11042000@gmail.com](https://www.linkedin.com/in/pratik-more-37b808148).
+- LinkedIn (https://www.linkedin.com/in/pratik-more-37b808148).
 
 
 
