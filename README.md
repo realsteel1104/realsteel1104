@@ -10,6 +10,9 @@ Ennhanced communication between electric vehicle and charging station.
 Efficiently implemented protocol which is bandwith efficient,light weight ,uses minimum battery power.
 Implemented Lane detection feature and calculate parameters like radius of curvature,off center distance and curve direction and communicate it to the driver.
 
+- https://github.com/realsteel1104/FreeRTOS-Projects :
+  Projects built using FreeRTOS, a light-weight OS for embedded systems. The projects are implemented using STM32L151C8T6A board and SEGGER tool for debugging and analysis.
+
 
 ### 📫 Connect with Me
 - LinkedIn (https://www.linkedin.com/in/pratik-more-37b808148).
